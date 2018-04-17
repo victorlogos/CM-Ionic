@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357666310318",
+    "firebase_url": "https://cambo-market-b632e.firebaseio.com",
+    "project_id": "cambo-market-b632e",
+    "storage_bucket": "cambo-market-b632e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357666310318:android:d6ac3ab2902c239e",
+        "android_client_info": {
+          "package_name": "com.cambo.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357666310318-nb26gnapqac9bao500hountrlqjji7v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMlUeo-M6BltuTCsD9-eXeTKExNim4LY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

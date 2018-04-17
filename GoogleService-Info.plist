@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>357666310318-mar18j5d6a7l3hklohqajh6ip52okgfr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.357666310318-mar18j5d6a7l3hklohqajh6ip52okgfr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0arwEXjrZRdB07KwWIjNvqoTVQ5FH0To</string>
+	<key>GCM_SENDER_ID</key>
+	<string>357666310318</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cambo.market</string>
+	<key>PROJECT_ID</key>
+	<string>cambo-market-b632e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cambo-market-b632e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:357666310318:ios:d6ac3ab2902c239e</string>
+	<key>DATABASE_URL</key>
+	<string>https://cambo-market-b632e.firebaseio.com</string>
+</dict>
+</plist>
